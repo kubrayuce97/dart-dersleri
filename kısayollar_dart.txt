@@ -1,0 +1,1 @@
+Dart ile kısayolları kodları göreceğiz.
